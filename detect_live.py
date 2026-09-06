@@ -89,4 +89,4 @@ while True:
 
     count += 1
 
-cv2.destroyAllWindows()
+cv2.destroyAllWindows()
