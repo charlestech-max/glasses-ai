@@ -186,4 +186,4 @@ uv run python detect_live.py
 
 - **Custom Model Training**: Fine-tune YOLOv8 Nano on a dataset of Arduino components for specialized object detection
 - **Voice Commands**: Integrate speech recognition to enable hands-free interaction with the AI assistant
-- **Arduino Integration**: Connect the system to an Arduino board to provide real-time feedback based on detected components and board states
+- **Arduino Integration**: Connect the system to an Arduino board to provide real-time feedback based on detected components and board states
